@@ -1,0 +1,15 @@
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\bin\Debug\net8.0\Assignment3.exe
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\bin\Debug\net8.0\Assignment3.dll.config
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\bin\Debug\net8.0\Assignment3.dll
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.dll
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll

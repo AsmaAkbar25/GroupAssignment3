@@ -1,0 +1,28 @@
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.exe
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.deps.json
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.dll
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.pdb
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.dll
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\refint\Assignment3.dll
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.pdb
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment\obj\Debug\net8.0\ref\Assignment3.dll
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.exe
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.deps.json
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.dll
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\bin\Debug\net8.0\Assignment3.pdb
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.dll
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\refint\Assignment3.dll
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.pdb
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+c:\Users\DELL\OneDrive\Desktop\Assignment3Skeleton (1) Final\Assignment3Skeleton\Assignment\obj\Debug\net8.0\ref\Assignment3.dll
