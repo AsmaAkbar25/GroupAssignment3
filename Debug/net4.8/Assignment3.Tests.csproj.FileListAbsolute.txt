@@ -1,0 +1,5 @@
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3.Tests\obj\Debug\net4.8\Assignment3.Tests.csproj.AssemblyReference.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3.Tests\obj\Debug\net4.8\Assignment3.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3.Tests\obj\Debug\net4.8\Assignment3.Tests.AssemblyInfoInputs.cache
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3.Tests\obj\Debug\net4.8\Assignment3.Tests.AssemblyInfo.cs
+C:\Users\Scientist\Desktop\work\Assignment3Skeleton (1)\Assignment3Skeleton\Assignment3.Tests\obj\Debug\net4.8\Assignment3.Tests.csproj.CoreCompileInputs.cache
